@@ -4,6 +4,8 @@ A very simplistic application to test the `runTools` API exposed by `openai` SDK
 
 By providing the `tools` array, you give the LLM ability to _reason, observer and act_ based on the result of a given "tool". This is so called _ReAct_ pattern. This pattern is used in building _agents_.
 
+![Demo of the application](./public/demo.png)
+
 ## Running the application
 
 1. Create the `.env.local` file in the project root directory.
